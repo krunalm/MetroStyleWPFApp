@@ -26,6 +26,11 @@ namespace WpfApplication1
             InitializeComponent();
         }
 
+        private void aboutButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("About -> My Fab App v3.0");
+        }
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Hello WPF World !!!");

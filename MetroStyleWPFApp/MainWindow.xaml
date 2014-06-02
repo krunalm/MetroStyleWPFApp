@@ -14,7 +14,7 @@
     
     <controls:MetroWindow.RightWindowCommands>
         <controls:WindowCommands>
-            <Button Content="about" />
+            <Button Content="about" Click="aboutButton_Click" />
             <Button>
                 <StackPanel Orientation="Horizontal">
                     <Rectangle Width="20" Height="20"
