@@ -1,0 +1,36 @@
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\MetroStyleWPFApp.exe.config
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\MetroStyleWPFApp.exe
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\MetroStyleWPFApp.pdb
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Resources\Icons.g.cs
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MetroStyleWPFApp_MarkupCompile.cache
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MetroStyleWPFApp.g.resources
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MetroStyleWPFApp.Properties.Resources.resources
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MetroStyleWPFApp.csproj.GenerateResource.Cache
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MetroStyleWPFApp.exe
+C:\Users\krunal\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MetroStyleWPFApp.pdb
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Debug\MetroStyleWPFApp.exe.config
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MetroStyleWPFApp.exe
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MetroStyleWPFApp.pdb
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Debug\MetroStyleWPFApp.exe
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Debug\MetroStyleWPFApp.pdb
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Debug\MahApps.Metro.dll
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Debug\System.Windows.Interactivity.dll
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Debug\MahApps.Metro.xml
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MainWindow.baml
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\Resources\Icons.baml
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\App.baml
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MainWindow.g.cs
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\Resources\Icons.g.cs
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\App.g.cs
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MetroStyleWPFApp_MarkupCompile.cache
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MetroStyleWPFApp.g.resources
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MetroStyleWPFApp.Properties.Resources.resources
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Debug\MetroStyleWPFApp.csproj.GenerateResource.Cache
