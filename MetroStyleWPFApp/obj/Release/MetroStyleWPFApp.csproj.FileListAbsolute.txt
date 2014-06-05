@@ -22,7 +22,6 @@ D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Release\MetroStyleWPFApp
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Release\MahApps.Metro.dll
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Release\System.Windows.Interactivity.dll
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\bin\Release\MahApps.Metro.xml
-D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\MetroStyleWPFApp.csprojResolveAssemblyReference.cache
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\MainWindow.baml
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\Resources\Icons.baml
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\App.baml
