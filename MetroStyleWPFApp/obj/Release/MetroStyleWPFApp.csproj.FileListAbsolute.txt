@@ -34,3 +34,4 @@ D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\MetroStyleWPFApp
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\MetroStyleWPFApp.csproj.GenerateResource.Cache
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\MetroStyleWPFApp.exe
 D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\MetroStyleWPFApp.pdb
+D:\Krunal GitRepo\MetroStyleWPFApp\MetroStyleWPFApp\obj\Release\MetroStyleWPFApp.csprojResolveAssemblyReference.cache

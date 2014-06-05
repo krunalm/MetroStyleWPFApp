@@ -33,7 +33,7 @@
 
 
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="97,77,0,0" VerticalAlignment="Top" Width="186" Height="73" Click="Button_Click"/>
+        <Button Content="Hello !!" HorizontalAlignment="Left" Margin="97,77,0,0" VerticalAlignment="Top" Width="186" Height="73" Click="Button_Click"/>
 
     </Grid>
 </controls:MetroWindow>
