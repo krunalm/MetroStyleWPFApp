@@ -33,7 +33,7 @@ namespace WpfApplication1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello v3 !!, WPF World !");
+            MessageBox.Show("Endless Forms Most Beautiful (2.0.1.0) !!");
         }
     }
 }
