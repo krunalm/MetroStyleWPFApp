@@ -28,12 +28,12 @@ namespace WpfApplication1
 
         private void aboutButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("About -> My Fab App v3.0");
+            MessageBox.Show("About -> My Fab App v3.1");
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Endless Forms Most Beautiful (2.0.1.0) !!");
+            MessageBox.Show("First light of the day (2.2.0.0) !!");
         }
     }
 }
